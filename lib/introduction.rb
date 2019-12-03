@@ -9,7 +9,9 @@ puts "Hi, my name is (name) and I am learning to program in (language)."
 end
 
 def full_name(first_name, last_name)
-  
+  first_name + " " + last_name
+end
+
 
 
 
