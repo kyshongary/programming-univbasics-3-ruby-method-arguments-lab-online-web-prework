@@ -13,9 +13,9 @@ def full_name(first_name, last_name)
 end
 puts full_name("Kyshon", "Gary")
 
-
-
-
+def introduction(name)
+puts "Hi, my name is #{name}."
+end 
 
 
 
